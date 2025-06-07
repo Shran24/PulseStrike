@@ -38,7 +38,7 @@ A fast-paced 3D first-person shooter game built with Three.js. Battle through wa
 
 ## Play the Game
 
-[Play PulseStrike](https://shran24.github.io/PulseStrike/))
+[Play PulseStrike](https://shran24.github.io/PulseStrike/)
 
 ## Development
 
